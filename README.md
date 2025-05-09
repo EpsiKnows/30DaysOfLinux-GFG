@@ -6,7 +6,7 @@
 (Screenshots will be added here)
 
 ### Python Setup
-(Screenshots will be added here)
+![Ubuntu Installation Screenshot](WindowsCommand.jpg)
 
 - **Goal:** Transitioning from Electrical Engineering to DevOps by mastering Linux fundamentals.  
 
